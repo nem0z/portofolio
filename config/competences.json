@@ -1,0 +1,38 @@
+[
+    {
+        "label": "Python",
+        "level": 3
+    },
+    {
+        "label": "JavaScript",
+        "level": 3
+    },
+    {
+        "label": "HTML",
+        "level": 2
+    },
+    {
+        "label": "CSS",
+        "level": 2
+    },
+    {
+        "label": "PHP",
+        "level": 2
+    },
+    {
+        "label": "SQL",
+        "level": 2
+    },
+    {
+        "label": "Java",
+        "level": 2
+    },
+    {
+        "label": "C",
+        "level": 1
+    },
+    {
+        "label": "Cpp",
+        "level": 1
+    }
+]

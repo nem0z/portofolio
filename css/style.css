@@ -175,32 +175,80 @@ main > .section {
 
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-evenly;
 }
 
 #list-competence-global > li {
-    width: 30%;
+    width: 45%;
 }
 
 .list-competence {
-    min-height: 30vh;
     padding: 3vh;
 
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 
-    border-radius: 45px;
-    border: 1px solid var(--color-text-link);
     }
 
 .list-competence > li{
-    background-color: var(--color-text-link);
+    height: 100%;
 
-    margin: 0 0.5vh;
+    margin: 0.5vh 0.5vh;
     padding: 1vh 3vh;
 
-    border-radius: 30px;
-    height: 100%;
+    background-color: var(--color-secondary);
+    border-radius: 45px;
+}
+
+
+#list-competence-legende {
+
+}
+
+#list-competence-legende > li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sticker {
+    display: block;
+
+    height: 15px;
+    width: 15px;
+
+    margin-right: 1em;
+
+    border-radius: 90px;
+}
+
+.sticker-red {
+    background-color: red;
+}
+
+.sticker-orange {
+    background-color: orange;
+}
+
+.sticker-green {
+    background-color: green;
+}
+
+.border-red {
+    border: 1px solid red;
+}
+
+.border-orange {
+    border: 1px solid orange;
+}
+
+.border-green {
+    border: 1px solid green;
+}
+
+footer {
+    height: 20vh;
+    background-color: var(--color-primary);
 }
