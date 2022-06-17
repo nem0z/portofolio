@@ -46,7 +46,7 @@
     }
   }
 
-#banner h1, p {
+#banner h1, #banner p {
     color: white;
     font-size: 2em;
 }

@@ -1,0 +1,6 @@
+- refonte navbar + footer 
+- mention légal
+- placement image / text dans les .sub-section
+- ajouter de la couleur / démarquation entre les sections
+- Revoir les compétences
+- Revoir / faire les texts
