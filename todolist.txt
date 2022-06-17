@@ -4,3 +4,4 @@
 - ajouter de la couleur / démarquation entre les sections
 - Revoir les compétences
 - Revoir / faire les texts
+- smooth transition between secton + nav to section
