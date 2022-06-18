@@ -5,3 +5,4 @@
 - Revoir les compétences
 - Revoir / faire les texts
 - smooth transition between secton + nav to section
+- responsive
