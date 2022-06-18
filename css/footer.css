@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+footer > a {
+    color: var(--color-text-link);
+}
