@@ -30,11 +30,11 @@
     position: absolute;
 
     animation-duration: 2s;
-    animation-name: show;
+    animation-name: show-banner-text;
 
 }
 
-@keyframes show {
+@keyframes show-banner-text {
     from {
       margin-top: 50vh;
       opacity: 0;

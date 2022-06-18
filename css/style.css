@@ -10,8 +10,11 @@
     --color-text-secondary: rgba(255, 255, 245, 0.95);
     --color-text-link: 	rgba(30, 144, 255, 0.95);
 
-    --color-primary: rgba(0, 0, 0, 0.85);
-    --color-secondary: rgba(255, 255, 245, 0.85);
+    --color-dark: rgba(0, 0, 0, 0.85);
+    --color-light: rgba(255, 255, 245, 0.85);
+    --color-primary: rgba(50, 145, 135, 1);
+    --color-secondary: rgba(60, 180, 180, 1);
+
 }
 
 ul {
@@ -39,7 +42,7 @@ h1, h2, h3, h4, h5 {
 
 
 header {
-    height: 10vh;
+    height: 15vh;
     width: 100vw;
 
     position: fixed;
@@ -109,7 +112,7 @@ main > .section {
 }
 
 .section > h1 {
-    border-bottom: 1px solid var(--color-text-link);
+    border-bottom: 1px solid var(--color-primary);
     padding-bottom: 3px;
 
     font-size: 2em;
@@ -199,9 +202,10 @@ main > .section {
     margin: 0.5vh 0.5vh;
     padding: 1vh 3vh;
 
-    background-color: var(--color-secondary);
+    background-color: rgba(50, 145, 135, 0.05);
     border-radius: 45px;
 }
+
 
 
 #list-competence-legende {
@@ -238,15 +242,15 @@ main > .section {
 }
 
 .border-red {
-    border: 1px solid red;
+    border: 1.5px solid red;
 }
 
 .border-orange {
-    border: 1px solid orange;
+    border: 1.5px solid orange;
 }
 
 .border-green {
-    border: 1px solid green;
+    border: 1.5px solid green;
 }
 
 footer {
