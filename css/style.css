@@ -35,6 +35,10 @@ img {
     height: 100%;
 }
 
+p {
+    line-height: 2em;
+}
+
 h1, h2, h3, h4, h5 {
     margin-bottom: 1vh;
 }
@@ -184,7 +188,7 @@ main > .section::before {
 }
 
 .sub-section > .container:nth-child(2) {
-    width: 45%;
+    width: 40%;
 }
 
 #list-formation > li:nth-child(2n+1) .container:nth-child(1) {

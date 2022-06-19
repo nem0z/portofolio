@@ -1,0 +1,10 @@
+#profil-picture {
+    height: 20vh;
+    position: absolute;
+    top: 2.5vh;
+    left: 25vh;
+}
+
+#profil-picture  > img {
+    border-radius: 90px;
+}
