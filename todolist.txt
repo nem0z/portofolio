@@ -1,9 +1,8 @@
-- refonte navbar + footer 
-- mention légal
-- placement image / text dans les .sub-section
-- ajouter de la couleur / démarquation entre les sections
-- Revoir les compétences
-- Revoir / faire les texts
-- smooth transition between secton + nav to section
-- responsive
-- mentions légales
+- refonte navbar + footer (à améliorer)
+- placement image / text dans les .sub-section (OK)
+- ajouter de la couleur / démarquation entre les sections (à améliorer)
+- Revoir les compétences (à terminer)
+- Revoir / faire les texts (à terminer)
+- smooth transition between secton + nav to section (à faire)
+- responsive (à faire)
+- mentions légales (à terminer)
