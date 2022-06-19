@@ -170,6 +170,20 @@ main > .section::before {
     height: 10vw;
 }
 
+#list-external-links > li:hover > a > img {
+    animation: rotation 0.5s forwards;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg) scale(1);
+    }
+    to {
+      transform: rotate(15deg) scale(1.05);
+
+    }
+  }
+
 #list-external-links > li > h3 {
     width: 100%;
 
