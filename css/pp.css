@@ -8,3 +8,19 @@
 #profil-picture  > img {
     border-radius: 90px;
 }
+
+.small {
+    animation: small 0.5s forwards;
+}
+
+@keyframes small {
+    from {
+      height: 20vh;
+      top: 2.5vh;
+    }
+  
+    to {
+        height: 15vh;
+        top: 0;
+    }
+  }
