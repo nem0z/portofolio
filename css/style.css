@@ -110,7 +110,7 @@ main {
 
 main > .section {
     width: 80vw;
-    min-height: 20vh;
+    min-height: 85vh;
 
     display: flex;
     flex-direction: column;
@@ -118,6 +118,16 @@ main > .section {
 
     margin: 5vh 0;
     padding: 1vh 10vw;
+}
+
+main > .section::before {
+    height: 10vh;
+    width: 100%;
+
+    margin-bottom: 5vh;
+
+    background-color: var(--color-primary);
+    content: '';
 }
 
 .section > h1 {
@@ -161,20 +171,41 @@ main > .section {
 
 .sub-section {
     min-height: 30vh;
+    width: 100%;
 
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+
+    padding: 5vh;
+
+    border-bottom: 1px solid var(--color-primary);
 }
 
 .sub-section > .container:nth-child(2) {
     width: 45%;
 }
 
+#list-formation > li:nth-child(2n+1) .container:nth-child(1) {
+    width: auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-evenly;
+}
+
+#list-formation > li:nth-child(2n+1) .container:nth-child(1) > .container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
 .container > img {
-    width: 80%;
-    width: 100%;
+    max-width: 80%;
+    max-height: 80%;
 }
 
 #list-formation > li:nth-child(2n+1) > .sub-section {
