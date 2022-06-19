@@ -21,8 +21,13 @@ ul {
     list-style: none;
 }
 
+ul > li {
+    margin-bottom: 5px;
+}
+
 a {
     text-decoration: none;
+    color: var(--color-text-link)
 }
 
 img {
@@ -36,6 +41,10 @@ h1, h2, h3, h4, h5 {
 
 .container {
     width: 100%;
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 /* ------------------------------------ HEADER ------------------------------------ */
