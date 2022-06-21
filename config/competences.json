@@ -1,23 +1,51 @@
 [
     {
-        "label": "Python",
-        "level": 3
-    },
-    {
         "label": "JavaScript",
         "level": 3
     },
     {
-        "label": "HTML",
+        "label": "Node-js",
         "level": 2
+    },
+    {
+        "label": "Electron-js",
+        "level": 2
+    },
+    {
+        "label": "React-js",
+        "level": 1
+    },
+    {
+        "label": "JQuery",
+        "level": 3
+    },
+    {
+        "label": "Python",
+        "level": 3
+    },
+    {
+        "label": "Django",
+        "level": 2
+    },
+    {
+        "label": "HTML",
+        "level": 3
     },
     {
         "label": "CSS",
         "level": 2
     },
     {
+        "label": "Bootstrap",
+        "level": 2
+    },
+    {
         "label": "PHP",
         "level": 2
+    },
+    {
+        "label": "Symphony",
+        "level": 1
     },
     {
         "label": "SQL",
@@ -28,11 +56,55 @@
         "level": 2
     },
     {
-        "label": "C",
+        "label": "C-Cpp",
         "level": 1
     },
     {
-        "label": "Cpp",
+        "label": "SharePoint",
+        "level": 3
+    },
+    {
+        "label": "API-REST",
+        "level": 3
+    },
+    {
+        "label": "Conception-BDD",
+        "level": 2
+    },
+    {
+        "label": "MySQL",
+        "level": 2
+    },
+    {
+        "label": "MongoDB-NeDB",
+        "level": 1
+    },
+    {
+        "label": "UNIX",
+        "level": 3
+    },
+    {
+        "label": "Git-GitHub",
+        "level": 2
+    },
+    {
+        "label": "NPM",
+        "level": 2
+    },
+    {
+        "label": "Excel-Suite-Office",
+        "level": 2
+    },
+    {
+        "label": "Trello",
+        "level": 2
+    },
+    {
+        "label": "UML",
+        "level": 2
+    },
+    {
+        "label": "Docker",
         "level": 1
     }
 ]
