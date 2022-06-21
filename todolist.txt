@@ -1,8 +1,8 @@
 - refonte navbar + footer (à améliorer)
-- placement image / text dans les .sub-section (OK)
-- ajouter de la couleur / démarquation entre les sections (à améliorer)
-- Revoir les compétences (à terminer)
+- placement image / text dans les .sub-section OK
+- ajouter de la couleur / démarquation entre les sections OK
+- Revoir les compétences OK
 - Revoir / faire les texts (à terminer)
-- smooth transition between secton + nav to section (à faire)
+- smooth transition between secton + nav to section OK  
 - responsive (à faire)
-- mentions légales (à terminer)
+- mentions légales (ajouter photos)
